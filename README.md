@@ -1,1 +1,1 @@
-slider-like-on-dou(almost)))
+slider-like-on-dou...almost)
